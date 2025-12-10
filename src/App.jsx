@@ -283,7 +283,7 @@ const SunnieBirthday = () => {
             <div className="bg-white/90 backdrop-blur-md rounded-3xl shadow-2xl p-8 md:p-12 mb-8 border-4 border-yellow-200">
               <h3 className="text-center text-4xl md:text-5xl font-bold text-pink-600 mb-10 flex items-center justify-center gap-4">
                 <Heart className="w-12 h-12 text-red-500 animate-pulse" />
-                  Kỷ Niệm Đẹp Của Chị Sunnie
+                  Công túa Sunnie's Photo Gallery
                 <Heart className="w-12 h-12 text-red-500 animate-pulse" />
               </h3>
 
