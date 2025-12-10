@@ -91,6 +91,14 @@ const SunnieBirthday = () => {
     { url: '/images/10.jpg' },
     { url: '/images/11.jpg' },
     { url: '/images/12.jpg' },
+    { url: '/images/13.jpg' },
+    { url: '/images/14.jpg' },
+    { url: '/images/15.jpg' },
+    { url: '/images/16.jpg' },
+    { url: '/images/17.jpg' },
+    { url: '/images/18.jpg' },
+    { url: '/images/19.jpg' },
+    { url: '/images/20.jpg' },
   ];
 
   const interests = [
@@ -242,7 +250,7 @@ const SunnieBirthday = () => {
               <div>
                 <h3 className="text-center text-4xl md:text-5xl font-bold text-pink-600 mb-10 flex items-center justify-center gap-4">
                   <Sparkles className="w-12 h-12 text-yellow-400 animate-pulse" />
-                  Sunnie's Favorite Things
+                  Công túa Sunnie's Favorite Things
                   <Sparkles className="w-12 h-12 text-yellow-400 animate-pulse" />
                 </h3>
 
